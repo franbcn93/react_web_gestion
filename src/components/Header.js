@@ -26,10 +26,14 @@ export default class Header extends Component {
               </li>
               {/* Está por modificar */}
               <li>
-                <a href="/hospitales">Hospitales</a>
+                <a href="https://franbcn93.github.io/react_web_hospitales/">
+                  Hospitales
+                </a>
               </li>
               <li>
-                <a href="/contacto">Contacto</a>
+                <a href="https://franbcn93.github.io/react_web_contacto/">
+                  Contacto
+                </a>
               </li>
             </ul>
           </nav>
